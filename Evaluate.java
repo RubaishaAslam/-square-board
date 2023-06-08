@@ -1,6 +1,5 @@
 /*
  * Written By: Rubaisha Aslam 
- * Student Number: 251179721
  * Assignment 2
  * This class implements all the auxiliary methods needed by the algorithm that plays the game
 */
