@@ -1,6 +1,5 @@
 /*
  * Written By: Rubaisha Aslam 
- * Student Number: 251179721
  * Assignment 2
  * This class saves adds nodes that will be used in the linked list 
 */
