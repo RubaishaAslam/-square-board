@@ -1,6 +1,5 @@
 /*
  * Written By: Rubaisha Aslam 
- * Student Number: 251179721
  * Assignment 2
  * This class implements a hash table in which collisions are resolved using separate chaining 
 */
